@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Clases"/>
+	<classpathentry kind="src" path="datos"/>
+	<classpathentry kind="src" path="Librerias"/>
+	<classpathentry kind="src" path="Menus"/>
+	<classpathentry kind="src" path="Vistas"/>
+	<classpathentry kind="src" path="Controladores"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

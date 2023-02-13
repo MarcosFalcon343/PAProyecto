@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.java.j2seproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+            <name>ProyectoIntegradorPA</name>
+            <explicit-platform explicit-source-supported="true"/>
+            <source-roots>
+                <root id="src.dir" name="src"/>
+                <root id="Clases.dir"/>
+                <root id="datos.dir"/>
+                <root id="Librerias.dir"/>
+                <root id="Menus.dir"/>
+                <root id="Vistas.dir"/>
+                <root id="Controladores.dir"/>
+            </source-roots>
+            <test-roots/>
+        </data>
+    </configuration>
+</project>
